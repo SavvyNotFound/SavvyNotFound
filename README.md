@@ -1,6 +1,19 @@
-# Heyo
+ <div align="center">
 
-Student and self-taught C++ programmer, fairly new to the community and currently exploring systems and graphics programming. I'm particularly interested in low-level, engine-independent game development and understanding how things work under the hood.
+# Hey, I'm Savvy.
 
-Currently working on Luna, a 2D OpenGL game engine built as a learning project while following TheCherno's Game Engine series, with additional experimentation and my own extensions along the way.
-Appreciate you giving me any source of materials I can get at my disposable to fuel my learning/creating journey.
+**STUDENT & DEVELOPER**
+
+</div>
+
+### A little about me.
+
+I'm a student and self-taught programmer who enjoys understanding how things work beneath the surface. I like exploring unfamiliar concepts, experimenting with ideas, and building things along the way.
+
+<br/>
+
+<div align="center">
+
+<sub>⌁ Thanks for stopping by.</sub>
+
+</div>
